@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head></head>
+
+    <meta charset="UT-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!--Compiled and minified CSS -->
+
+    <link rel="stylesheet" href="https:cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <title> CWD-TELECALL LAGUNA </title>
+
+<body class="pastel-color-solid-background-1920x1080"> 
+
+</body>
+
+    <div class="card-panel">
+
+        <h1 class="center align">HEADINGS1</h1>
+
+        <headings >
+
+        <h2> HEADINGS2 </h2>
+
+        <h3> HEADINGS3 </h3>
+
+        <h4> HEADINGS4 </h4>
+
+        <h5> HEADINGS5 </h5>
+
+        
+
+<!--blockquote-->
+
+        <blockquote>
+
+            The blockquote element is used to indicate the quotation of a large section of text from another source.
+
+        </blockquote>
+
+        
+
+<!--paragpraph-->
+
+        <paraghraph>
+
+            <p> 
+
+                Typography is the technique of structuring letters and words in a way that improves the legibility, readability and even navigation of a website. It helps create an aesthetically pleasing interface for users and in short, it gives life to the text.
+
+    </p>
+
+        </paraghraph>
+
+        <!--flowtext-->
+
+        <flowtext>
+
+            <p class="Flow text"> 
+
+            USING THE DEFAULT HTML STYLING OF MOST WEB BROWSERS, IT WILL INDENT THE RIGHT AND LEFT MARGINS BOTH OF THE DISPLAY AND IN PRINTED FORM, THIS MAY BE OBERRIDDEN BY CASCADING STYLE SHEET.
+
+
+    </p>
+
+        </flowtext>
+
+        <!--color-->
+
+        <color>
+
+            <div class="card-panel orange lighten-3">This is a card panel with a lighten-3 class</div>           
+
+                <p class="grey-text text"></p>
+
+            
+
+            <div class="card-panel indigo lighten-4">This is a card panel with a lighten-4 class</div>           
+
+                <p class="grey-text text"></p>
+
+            </div>
+
+
+        </color>
+
+<!--raised button-->
+
+
+<a class="waves-effect waves-light btn">See more</a>
+
+<a class="waves-effect waves-light btn"><i class="material-icons left">👍</i>subscribe</a>
+
+<a class="waves-effect waves-light btn"><i class="material-icons right">💼</i>Contact us:</a>
+
+        
+
+<!--Floating-->
+
+<a class="btn-floating btn-large waves-effect waves-light red"><i class="material-icons">+</i></a>
+
+
+<!--flat-->
+
+
+  <a class="waves-effect waves-teal, center align btn-flat">HOLD</a>
+
+<!--submit-->
+
+<button class="btn waves-effect waves-light grey-text" type="submit" name="action">Submit
+
+    <i class="material-icons right, center align"></i>
+
+  </button>
+        
+
+<!-- Compiled and minified JavaScript -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+
+</script>
+
+</html>
